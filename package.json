@@ -1,0 +1,15 @@
+{
+    "name": "vihaga",
+    "title": "My Shiny Theme",
+    "description": "first theme for bracket",
+    "homepage": "https://github.com/lakshitha24/vihaga",
+    "version": "1.0.0",
+    "author": "JKLMIHIRAN",
+    "license": "MIT",
+    "theme": {
+        "file": "vihaga.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
